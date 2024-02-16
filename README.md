@@ -1,6 +1,6 @@
 # BVB's fish configuration
 
-Fish is an awesome shell with great plugins and theming. To configure fish, one can edit some
+[Fish](https://fishshell.com/) is an awesome shell with great plugins and theming. To configure fish, one can edit some
 configuration files, or dotfiles. This repository is used to persist and version that configuration
 across multiple devices.
 
