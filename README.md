@@ -6,6 +6,11 @@ across multiple devices.
 
 ## Changelog
 
+### 2024-03-11
+- Remove unused project jump config
+- Add comments
+- Add asdf shim path for using utils installed with asdf
+
 ### 2024-02-16
 Initialise the fish dotfiles project. Contains themes, plugins, path variables registered,
 intialising starship.
