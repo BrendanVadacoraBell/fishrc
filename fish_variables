@@ -3,9 +3,9 @@
 SETUVAR --export TOKYONIGHT:storm
 SETUVAR ZO_CMD:zo
 SETUVAR Z_CMD:z
-SETUVAR Z_DATA:/Users/brendan\x2ebell/\x2elocal/share/z/data
-SETUVAR Z_DATA_DIR:/Users/brendan\x2ebell/\x2elocal/share/z
-SETUVAR Z_EXCLUDE:\x5e/Users/brendan\x2ebell\x24
+SETUVAR Z_DATA:/Users/BBELL/\x2elocal/share/z/data
+SETUVAR Z_DATA_DIR:/Users/BBELL/\x2elocal/share/z
+SETUVAR Z_EXCLUDE:\x5e/Users/BBELL\x24
 SETUVAR __fish_initialized:3400
 SETUVAR _fisher_axkirillov_2F_tokyonight_2D_fish_files:\x7e/\x2econfig/fish/functions/_tokyonight_set_background\x2efish\x1e\x7e/\x2econfig/fish/functions/theme_tokyonight\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_day\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_moon\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_night\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_storm\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/tokyonight\x2efish
 SETUVAR _fisher_franciscolourenco_2F_done_files:\x7e/\x2econfig/fish/conf\x2ed/done\x2efish
