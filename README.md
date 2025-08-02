@@ -6,6 +6,12 @@ across multiple devices.
 
 ## Changelog
 
+### 2025-08-02
+- Add [bun](https://bun.com/)
+- Add [zig](https://ziglang.org/)
+- Add [pnpm](https://pnpm.io/)
+- Plugin updates
+
 ### 2024-03-11
 - Remove unused project jump config
 - Add comments
